@@ -14,7 +14,7 @@ h1 {
 	width: 100%:	
 }	
 	
-div#section1 {
+#section1 {
   background-color: #009933;
   width: 32.4%;
   margin: 10px;
@@ -22,7 +22,7 @@ div#section1 {
   border: 1px solid black;
 }
 	
-div#section2 {
+#section2 {
   background-color: #009933;
   width: 32.4%;
   margin: 10px;
@@ -30,7 +30,7 @@ div#section2 {
   border: 1px solid black;
 }
 	
-div#section3 {
+#section3 {
   background-color: #009933;
   width: 32.5%;
   margin: 10px;
@@ -52,9 +52,8 @@ p {
   text-align: center; 
   border-left: 1px solid black;	
   border-bottom: 1px solid black;	
-
-
 }
+
 #mi2 {
   background-color: #000000;
   min-width: 100px;
@@ -65,6 +64,7 @@ p {
   border-left: 1px solid black;	
   border-bottom: 1px solid black;	
 }
+
 #mi3 {
   background-color: #ff0000;
   min-width: 100px;
